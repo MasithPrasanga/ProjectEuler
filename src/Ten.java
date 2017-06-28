@@ -13,5 +13,9 @@ class Ten
 			System.out.println("second if");
 		}
 
+		if(ture){
+			System.out.println("intern branch");
+		}
+
 	}
 }
