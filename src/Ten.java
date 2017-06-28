@@ -13,7 +13,5 @@ class Ten
 			System.out.println("second if");
 		}
 
-
-
 	}
 }
